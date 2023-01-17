@@ -12,10 +12,6 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 
 •	Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
-<p align="center">
-  <img width="200" height="200" src="https://github.com/jacquie0583/MechaCar_Statistical_Analysis/blob/main/image%2012.jpg">
-</p>
-
 ##  Reports:
 This new assignment consists of three technical analysis deliverables and a proposal for further statistical study. You’ll submit the following:
 1.	Linear Regression to Predict MPG
